@@ -54,8 +54,8 @@
 **실행 방법:**
 1. zip 파일 압축 해제
 2. Tesseract-OCR 설치후 압축 해제 폴더로 복사해주세요.
-2-1. ex. C:\Program Files\Tesseract-OCR >> C:\Users\main\Downloads\DeltaViewer\tesseract
-3. DeltaViewer.exe 실행
+3. 경로 C:\Program Files\Tesseract-OCR >> C:\Users\main\Downloads\DeltaViewer\tesseract
+4. DeltaViewer.exe 실행
 
 ## 📖 사용 가이드 (User Guide)
 
