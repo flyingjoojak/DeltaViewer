@@ -49,10 +49,13 @@
 
 **요구 사항 (Prerequisites):**
 *   Python 3.10+
-*   [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki) (직접 설치 필요) (zip파일 다운시 내장 함유되어 있어 설치 불필요)
+*   [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki) (직접 설치 필요)
 
 **실행 방법:**
-zip 파일 압축 해제 후 DeltaViewer.exe 실행
+1. zip 파일 압축 해제
+2. Tesseract-OCR 설치후 압축 해제 폴더로 복사해주세요.
+ex. C:\Program Files\Tesseract-OCR >> C:\Users\main\Downloads\DeltaViewer\tesseract
+3. DeltaViewer.exe 실행
 
 ## 📖 사용 가이드 (User Guide)
 
@@ -64,9 +67,6 @@ zip 파일 압축 해제 후 DeltaViewer.exe 실행
     *   Total: 총 가격
     *   Slots: 차지하는 칸 수
 5.  프로그램 종료는 **`Shift + z`**를 누르면 됩니다.
-<img width="397" height="215" alt="image" src="https://github.com/user-attachments/assets/13d383c4-3473-46d3-8d13-33d5372dc78a" />
-<img width="405" height="216" alt="image" src="https://github.com/user-attachments/assets/8082b993-ae39-45ba-8941-1e728fd7cfaf" />
-
 
 ---
 
