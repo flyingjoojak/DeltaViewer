@@ -83,4 +83,4 @@ zip 파일 압축 해제 후 DeltaViewer.exe 실행
 
 ---
 
-**Developed by [Your Name]**
+**Developed by flyingjoojak**
