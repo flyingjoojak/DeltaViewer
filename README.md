@@ -38,24 +38,16 @@
 
 ## 🚀 설치 및 실행 (Installation & Run)
 
-### 1. 간편 실행 (추천 - Portable)
-**별도의 설치 과정 없이 바로 실행할 수 있는 방법입니다.**
-1.  배포된 압축 파일을 다운로드 후 압축을 풉니다.
-2.  폴더 내에 `DeltaForceOverlay.exe`와 `tesseract` 폴더가 함께 있는지 확인합니다.
-3.  `DeltaForceOverlay.exe`를 실행하면 바로 작동합니다. (Tesseract 설치 불필요)
-
-### 2. 직접 설치 및 실행 (개발자용)
-소스 코드를 직접 수정하거나 실행하고 싶은 경우입니다.
-
 **요구 사항 (Prerequisites):**
-*   Python 3.10+
+*   [Python 3.10+](https://www.python.org/downloads/release/python-31011/) 
 *   [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki) (직접 설치 필요)
 
 **실행 방법:**
 1. zip 파일 압축 해제
 2. Tesseract-OCR 설치후 압축 해제 폴더로 복사해주세요.
 3. 경로 C:\Program Files\Tesseract-OCR >> C:\Users\main\Downloads\DeltaViewer\tesseract
-4. DeltaViewer.exe 실행
+4. cmd에서 pip install -r requirements.txt 실행
+5. run_admin.bat 실행
 
 ## 📖 사용 가이드 (User Guide)
 
