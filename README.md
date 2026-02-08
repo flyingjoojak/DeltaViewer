@@ -54,7 +54,7 @@
 **실행 방법:**
 1. zip 파일 압축 해제
 2. Tesseract-OCR 설치후 압축 해제 폴더로 복사해주세요.
-ex. C:\Program Files\Tesseract-OCR >> C:\Users\main\Downloads\DeltaViewer\tesseract
+2-1. ex. C:\Program Files\Tesseract-OCR >> C:\Users\main\Downloads\DeltaViewer\tesseract
 3. DeltaViewer.exe 실행
 
 ## 📖 사용 가이드 (User Guide)
@@ -67,6 +67,8 @@ ex. C:\Program Files\Tesseract-OCR >> C:\Users\main\Downloads\DeltaViewer\tesser
     *   Total: 총 가격
     *   Slots: 차지하는 칸 수
 5.  프로그램 종료는 **`Shift + z`**를 누르면 됩니다.
+<img width="405" height="216" alt="image" src="https://github.com/user-attachments/assets/b0c2f98c-c6a4-4eb3-bc70-8c06e7378a0e" />
+<img width="397" height="215" alt="image" src="https://github.com/user-attachments/assets/0ba6ffc0-532e-4350-b7a0-e0e9539bbee8" />
 
 ---
 
